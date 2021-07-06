@@ -1,2 +1,4 @@
-cp -r /home/dr69/Desktop/gitDemo/test.py test1.py /home/dr69/Desktop/gitDemo/backup/
+sudo sudo 
+dri123
+sudo cp -r /home/dr69/Desktop/gitDemo/test.py test1.py /home/dr69/Desktop/gitDemo/backup/
 
